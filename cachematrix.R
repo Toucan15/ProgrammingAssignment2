@@ -1,5 +1,5 @@
 ## First function can store and retreive objects from the parent environment
-## Second function returns the inverse of a function either by retrieving 
+## Second function returns the inverse of a matrix either by retrieving 
 ##it from cache in parent or by calculating it (and then caching)
 
 ##  this function stores x and m in the parent environment via
